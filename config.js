@@ -9,11 +9,11 @@ global.thumbmenu = process.env.THUMB_MENU
 global.sig = process.env.LINK_IG
 global.sgh = process.env.LINK_GITHUB
 global.sgc = process.env.LINK_GROUP
-global.ownernumber = process.env.6289522183114
+global.ownernumber = process.env.
 global.owner = [
   ['6289522183114'],
   ['0'],
-  [`${process.env.6289522183114}`, `${process.env.RIMA SANGE}`, true]
+  [`${process.env.}`, `${process.env.}`, true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [`${process.env.MODERATOR}`] // Want some help?
