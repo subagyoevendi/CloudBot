@@ -11,7 +11,7 @@ global.sgh = process.env.LINK_GITHUB
 global.sgc = process.env.LINK_GROUP
 global.ownernumber = process.env.6289522183114
 global.owner = [
-  ['0'],
+  ['6289522183114'],
   ['0'],
   [`${process.env.6289522183114}`, `${process.env.RIMA SANGE}`, true]
   // [number, dia creator/owner?, dia developer?]
